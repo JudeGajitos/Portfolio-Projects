@@ -1,6 +1,6 @@
 # **Coffee Sales Analysis and Dashboard**
 
-This project has three (3) Excel Worksheets:
+This project displays my skills in Data Cleaning, Data Analysis and Data Visualization using Pivot Table and Power Query. The file consist of three (3) Excel Worksheets:
 
 **Orders sheet:** Here are the Order ID, Order Date, Customer ID, Product ID, and Quantity.
 
@@ -24,4 +24,4 @@ This project has three (3) Excel Worksheets:
 4. The Light Roast Type achieved the highest sales of $17,364.45, 39% of its total sales followed by Medium type with $14,599.52, 32% of its total sales and last is Dark type with $13,176.23, 29% of its total sales.
 5. January 2022 recorded the highest monthly sales at $843.67, followed closely by September 2021 with $840.86.
 
-Dataset soruce: https://github.com/mochen862/excel-project-coffee-sales
+Dataset source: https://github.com/mochen862/excel-project-coffee-sales
