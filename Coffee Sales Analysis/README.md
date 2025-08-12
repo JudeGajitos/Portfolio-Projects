@@ -15,6 +15,9 @@ This project has three (3) Excel Worksheets:
 4. Add Sale column in Merge Data table by multiplying the Quantity column and the Unit Price column
 5. Add Roast Type Name and Coffee Type Name columns using the conditional column (if-else).
 
+![Uploading image.png…]()
+
+
 # **Key Insights/Findings**
 1. Excelsa achieved the most sales with $12,305.90, while Robusta had the lowest sales with $9,003.01.
 2. The top 5 customers are Allis Wilmore, Brenn Dundredge, Terri Farra, Nealson Cuttler, and Don Flintiff.
