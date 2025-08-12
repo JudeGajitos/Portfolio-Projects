@@ -1,5 +1,7 @@
 # **Coffee Sales Analysis and Dashboard**
 
+Dataset soruce: https://github.com/mochen862/excel-project-coffee-sales
+
 This project has three (3) Excel Worksheets:
 
 **Orders sheet:** Here are the Order ID, Order Date, Customer ID, Product ID, and Quantity.
