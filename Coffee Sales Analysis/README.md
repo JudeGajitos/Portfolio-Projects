@@ -1,7 +1,5 @@
 # **Coffee Sales Analysis and Dashboard**
 
-Dataset soruce: https://github.com/mochen862/excel-project-coffee-sales
-
 This project has three (3) Excel Worksheets:
 
 **Orders sheet:** Here are the Order ID, Order Date, Customer ID, Product ID, and Quantity.
@@ -23,3 +21,5 @@ This project has three (3) Excel Worksheets:
 3. The country United States achieved the highest sales with $35,635.71, next is Ireland with $6,696.28 and last is United Kingdom with $2,798.21.
 4. The Light Roast Type achieved the highest sales of $17,364.45, 39% of its total sales followed by Medium type with $14,599.52, 32% of its total sales and last is Dark type with $13,176.23, 29% of its total sales.
 5. January 2022 recorded the highest monthly sales at $843.67, followed closely by September 2021 with $840.86.
+
+Dataset soruce: https://github.com/mochen862/excel-project-coffee-sales
