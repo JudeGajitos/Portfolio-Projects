@@ -17,7 +17,6 @@ This project has three (3) Excel Worksheets:
 
 ![Uploading image.png…]()
 
-
 # **Key Insights/Findings**
 1. Excelsa achieved the most sales with $12,305.90, while Robusta had the lowest sales with $9,003.01.
 2. The top 5 customers are Allis Wilmore, Brenn Dundredge, Terri Farra, Nealson Cuttler, and Don Flintiff.
