@@ -15,7 +15,8 @@ This project displays my skills in Data Cleaning, Data Analysis and Data Visuali
 4. Add Sale column in Merge Data table by multiplying the Quantity column and the Unit Price column
 5. Add Roast Type Name and Coffee Type Name columns using the conditional column (if-else).
 
-![Uploading image.png…]()
+<img width="1099" height="663" alt="image" src="https://github.com/user-attachments/assets/9e66c176-537c-4b1a-b714-5ddb0a001529" />
+
 
 # **Key Insights/Findings**
 1. Excelsa achieved the most sales with $12,305.90, while Robusta had the lowest sales with $9,003.01.
