@@ -1,4 +1,4 @@
-# **Coffee Sales Analysis and Dashboard**
+# **Vehicle Sales Analysis and Dashboard**
 
 This project displays my skills in Data Cleaning, Data Analysis and Data Visualization using Pivot Table and Power Query.
 
@@ -7,6 +7,8 @@ This project displays my skills in Data Cleaning, Data Analysis and Data Visuali
 2. Change the data types of the columns into Numerical values or Categorical values and Dates.
 3. Add the Condition Metric column by giving a certain metric for condition values such as Excellent, Good, Fair, Poor, and Very Poor.
 4. Add another column named Mileage where it groups the value of odometer into 0 - 20,000, 20,001 - 50,000, 50,001 - 100,000, 100,001 - 150,000, and 150,001 and Above.
+
+<img width="1067" height="688" alt="image" src="https://github.com/user-attachments/assets/145f3d31-269e-4b30-8bd7-ed65b2fcb068" />
 
 # **Key Insights/Findings**
 1. The total sales of vehicle is $6,466,371,108.00, while the average selling price is $13,690.51 and the total unit sold is 472,325.
