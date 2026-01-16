@@ -15,3 +15,11 @@ This project analyzes customer churn behavior in a telecommunications company to
 - Python (Pandas, Numpy)
 - Matplotlib and Seaborn
 - Google Colab
+
+# **RECOMMENDATIONS**
+- Investigate service quality issues affecting fiber optic customers.
+- Offer incentives for customers to switch to long-term contracts.
+- Provide targeted retention campaigns for high-risk segments.
+
+# **DATA SOURCE**
+Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
